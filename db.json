@@ -1,0 +1,9 @@
+{
+  "usuarios": [
+    { "id": "1", "username": "admin", "nombre": "Ana Maria" }
+  ],
+  "gastos": [
+    { "id": "1", "desc": "Suscripción Software", "amount": 29.99, "category": "Tecnología", "date": "2026-05-25" },
+    { "id": "2", "desc": "Servicio de Internet", "amount": 45.00, "category": "Servicios", "date": "2026-05-26" }
+  ]
+}
